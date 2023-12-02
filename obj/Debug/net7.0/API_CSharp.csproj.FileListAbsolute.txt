@@ -39,3 +39,4 @@ D:\Documents\University\Nivel 5\Web avanzado\Primer parcial\Trabajos individuale
 D:\Documents\University\Nivel 5\Web avanzado\Primer parcial\Trabajos individuales\API_CSharp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 D:\Documents\University\Nivel 5\Web avanzado\Primer parcial\Trabajos individuales\API_CSharp\bin\Debug\net7.0\Newtonsoft.Json.dll
 D:\Documents\University\Nivel 5\Web avanzado\Primer parcial\Trabajos individuales\API_CSharp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\University\Nivel 5\Web avanzado\Primer parcial\Trabajos individuales\API_CSharp\obj\Debug\net7.0\API_CSharp.sourcelink.json
